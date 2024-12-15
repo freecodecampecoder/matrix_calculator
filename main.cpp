@@ -198,3 +198,9 @@ git status// Пример кода для Matrix Calculator
 // Напишите свой код здесь.
 git status// Пример кода для Matrix Calculator
 // Напишите свой код здесь.
+// Пример кода для Matrix Calculator
+// Напишите свой код здесь.
+git statusgit add .
+git commit -m "last commit"
+git pushgit push origin main// Пример кода для Matrix Calculator
+// Напишите свой код здесь.
