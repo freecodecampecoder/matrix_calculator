@@ -136,3 +136,4 @@ git push origin main
 
 // Пример кода для Matrix Calculator
 // Напишите свой код здесь.
+git push origin main
